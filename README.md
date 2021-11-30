@@ -3,4 +3,10 @@ This is the frontend application for the [SmartBrain Docker API](https://github.
 
 1. Clone this repo
 2. Run `npm install`
-3. Run `npm start`
+3. Run `npm start`  
+
+<br>
+
+![screenshot](https://raw.githubusercontent.com/mhanki/SmartBrain-React/main/Screenshot.png)
+
+
