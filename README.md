@@ -7,6 +7,6 @@ This is the frontend application for the [SmartBrain Docker API](https://github.
 
 <br>
 
-![screenshot](https://raw.githubusercontent.com/mhanki/SmartBrain-React/main/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/mhanki/SmartBrain-React/master/Screenshot.png)
 
 
